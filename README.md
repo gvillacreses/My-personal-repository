@@ -14,10 +14,7 @@
 
 ## 💻 Sección de Proyectos
 
-<details>
-<summary>🔐 Sistema de Ingreso a las Urbanizaciones</summary>
-
-<br>
+### 🔐 Sistema de Ingreso a las Urbanizaciones
 
 **Descripción:**  
 Este proyecto, desarrollado como parte del primer parcial de la materia **Programación Orientada a Objetos**, simula un sistema de control de acceso para urbanizaciones privadas. Permite a los residentes generar permisos de entrada para visitantes, a fin de agilizar el proceso de verificación por parte del personal de seguridad.
@@ -37,12 +34,9 @@ Este proyecto, desarrollado como parte del primer parcial de la materia **Progra
 **Repositorio del proyecto:**  
 🔗 _[Enlace al repositorio del sistema de ingreso](https://github.com/gvillacreses/Proyecto-POO-PrimerParcial.git)_  
 
-</details>
-
-<details>
-<summary>🧠 Analizador Léxico, Sintáctico y Semántico para PHP</summary>
-
 <br>
+
+### 🧠 Analizador Léxico, Sintáctico y Semántico para PHP
 
 **Descripción:**  
 Este proyecto fue realizado en el curso de **Lenguajes de Programación**. Consiste en el desarrollo de un sistema que analiza código PHP mediante tres etapas fundamentales: análisis léxico, análisis sintáctico y análisis semántico. Su objetivo es validar la estructura, sintaxis y coherencia lógica del código fuente de PHP usando Python y la librería PLY (Python Lex-Yacc).
@@ -59,20 +53,13 @@ Este proyecto fue realizado en el curso de **Lenguajes de Programación**. Consi
 - **Paradigmas aplicados:** Compilación, análisis sintáctico y semántico
 - **Entorno:** Consola
 
-**Objetivos cumplidos:**
-- Procesamiento de entradas PHP y validación de su sintaxis y semántica.
-- Generación de mensajes de error personalizados en caso de errores léxicos, sintácticos o semánticos.
-- Implementación modular y extensible para futuras mejoras (como agregar una interfaz gráfica).
-
 **Repositorio del proyecto:**  
 🔗 _[Enlace al repositorio del analizador](https://github.com/gvillacreses/ProyectoLP_G6.git)_  
 
-</details>
-
-<details>
-<summary>📡 Simulación de Errores en la Transmisión de Datos</summary>
 
 <br>
+
+### 📡 Simulación de Errores en la Transmisión de Datos
 
 **Descripción:**  
 Este proyecto simula el impacto de errores durante la transmisión de datos en redes sin mecanismos de corrección. Se realizaron 20 simulaciones introduciendo errores como pérdida de paquetes, envío fuera de orden, corrupción de datos y combinaciones de estos. El objetivo fue observar cómo afectan la integridad del mensaje transmitido en condiciones adversas, sin aplicar corrección de errores.
@@ -92,21 +79,9 @@ Este proyecto simula el impacto de errores durante la transmisión de datos en r
 - **Entorno:** Consola
 - **Estructuras clave:** Segmentación de mensajes, verificación con checksum, simulación de red sin corrección
 
-**Resultados observados:**
-- La pérdida y corrupción de paquetes causa mensajes incompletos o dañados.
-- El envío fuera de orden afecta la secuencia del mensaje reconstruido.
-- Los errores combinados amplifican el daño a la integridad de los datos.
-- Se evidencia la necesidad de usar mecanismos de corrección en sistemas reales.
-
-**Limitaciones:**
-- Se asumió que los headers no se pierden, simplificando la simulación.
-- No se modelaron interacciones entre errores, lo cual puede no reflejar escenarios reales complejos.
-
 **Repositorio del proyecto:**  
 🔗 _[Enlace al repositorio de simulación](https://github.com/AlexanderSorianoLeon/ProyectoRedesSimuladorErrores.git)_  
 
-
-</details>
 
 
 ---
